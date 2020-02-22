@@ -1,0 +1,10 @@
+*
+!*/
+!*.js
+!*.ts
+!*.json
+node_modules
+dist
+lib
+umd
+.cache

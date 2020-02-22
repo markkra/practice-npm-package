@@ -1,7 +1,3 @@
-function sayHiTo(name) {
+export default function sayHiTo(name) {
   return `Hi, ${name}`;
 }
-
-
-
-
